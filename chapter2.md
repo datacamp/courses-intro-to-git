@@ -731,6 +731,7 @@ Ex().has_chosen(3, ['No, some configuration values are set.',
 type: ConsoleExercise
 key: 7c0dce348b
 lang: shell
+xp: 100
 skills: 1
 ```
 
